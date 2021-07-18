@@ -1,0 +1,23 @@
+html {
+	margin: 0;
+	padding: 0;
+	scroll-padding-top: 20px;
+}
+
+#body {
+	font-family: 'Montserrat'
+}
+
+.image {
+    max-height: 400px;
+}
+
+.list-group .list-group-item {
+    background-color: #292b2c;
+    color: white;
+}
+
+#map {
+	height: 50vh;
+	width: 50vw;
+}
